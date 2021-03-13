@@ -1,4 +1,4 @@
-[alt text](https://github.com/PeterHolderrieth/models_of_neurons/)
+[alt text](https://github.com/PeterHolderrieth/models_of_neurons/blob/main/plots/hh_single_neuron_constant_current.png)
 
 # Computational Models of Neurons
 
