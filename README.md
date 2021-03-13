@@ -7,6 +7,6 @@ This repostiory provides implementation of computational models simulating *biol
 3. An implementation of the famous Nobel prize model by Hodgkin and Huxley (1952).
 
 
-<img src="https://github.com/PeterHolderrieth/models_of_neurons/blob/main/plots/hh_single_neuron_constant_current.png" width="500" height="500">
+<img src="https://github.com/PeterHolderrieth/models_of_neurons/blob/main/plots/hh_single_neuron_constant_current.png" width="700" height="700">
 
 
